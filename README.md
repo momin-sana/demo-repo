@@ -1,2 +1,2 @@
 # HEADING
-Some Discription
+Some Plain Text
